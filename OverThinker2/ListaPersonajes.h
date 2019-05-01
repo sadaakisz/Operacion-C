@@ -1,7 +1,7 @@
 #pragma once
 #include "Personaje.h"
 
-class SList {
+class ListaPersonajes {
 	struct Node {
 		Personaje *pers;
 		Node* next;
@@ -12,11 +12,10 @@ class SList {
 	};
 	int length;
 	Node* first;
-	Node* last;
 
 public:
-	SList() : length(0), first(nullptr), last(nullptr) {};
-	~SList() {
+	ListaPersonajes() : length(0), first(nullptr) {};
+	~ListaPersonajes() {
 		Node* aux;
 		while (first != nullptr) {
 			Node *aux = first;
@@ -31,10 +30,6 @@ public:
 		first = new Node(pers, first, nullptr);
 		length++;
 	}
-	void addLast(Personaje *pers) {
-		last = new Node(pers, nullptr, last);
-		length++;
-	}
 	void insert(Personaje *pers, int pos) {
 		if (pos == 0) addFirst(pers);
 		else if (pos > 0 && pos <= length) {
@@ -43,7 +38,6 @@ public:
 				aux = aux->next;
 			}
 			aux->next = new Node(pers, aux->next, aux);
-			if (pos == length) last = aux->next;
 		}
 		length++;
 	}
@@ -59,16 +53,6 @@ public:
 			return aux->pers;
 		}
 		cout<<"No se hallo el personaje";
-	}
-	Personaje* getAt2(int pos) {
-		if (length > 0 || pos < length) {
-			Node* aux = last;
-			for (int i = 0; i < pos; i++) {
-				aux = aux->prev;
-			}
-			return aux->pers;
-		}
-		cout << "No se hallo el personaje";
 	}
 	void deleteAt(int pos) {
 		if (pos >= 0 && pos < length) {
@@ -86,11 +70,6 @@ public:
 				Node* aux2 = aux->next;
 				aux->next = aux->next->next;
 				delete aux2;
-			}
-			else if (pos == length - 1) {
-				Node* aux = last;
-				last = last->prev;
-				delete aux;
 			}
 			--length;
 		}
@@ -111,12 +90,6 @@ public:
 			aux->next->pers = pers;
 		}
 	}
-	void modLast(Personaje *pers) {
-		if (length > 0) {
-			Node* aux = last;
-			aux->pers = pers;
-		}
-	}
 	int getFirst() {
 		getAt(0);
 	}
@@ -134,5 +107,13 @@ public:
 			aux = aux->next;
 		}
 		return -1;
+	}
+	void verPersonajes() {
+		for (short i = 0; i < length; i++) {
+			cout << this->getAt(i)->getNombre() << endl;
+			cout << this->getAt(i)->getIntel() << endl;
+			if (this->getAt(i)->getVivo() == 1) cout << "ta vivo"<<endl<<endl;
+			else cout << "F"<<endl<<endl;
+		}
 	}
 };

@@ -127,6 +127,7 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Acontecimiento.h" />
     <ClInclude Include="CInventario.h" />
     <ClInclude Include="CObjeto.h" />
     <ClInclude Include="ListaPersonajes.h" />
