@@ -133,6 +133,7 @@
     <ClInclude Include="ListaPersonajes.h" />
     <ClInclude Include="OverThinkerCore.h" />
     <ClInclude Include="Personaje.h" />
+    <ClInclude Include="Prota.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

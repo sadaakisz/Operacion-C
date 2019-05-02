@@ -1,0 +1,7 @@
+Persona 1: Deberias irte a jugar a otro lado amiga... esta zona esta en llamas $
+Vera: ...Lo se... $
+- Deberia ir a otro lugar $
+Persona 1: ...Zona sur. $
+Vera: eh? $
+Persona 1: Ahi quisas te pueden ayudar. $
+- Bueno... entonces seria mejor ir a la zona sur. $

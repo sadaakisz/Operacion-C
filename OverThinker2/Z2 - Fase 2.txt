@@ -1,0 +1,72 @@
+-La zona sur esta muy plagada...
+-Se nota que era una zona segura...
+Joshua: Aca hay muchas personas, sin embargo, unas te pueden dar unas habilidades.
+Joshua: Te recomendaria mejorar tu inteligencia.
+Vera: Me estas diciendo bruta?
+Joshua: NONONO, no es eso
+Joshua: El jefe dijo que usted es muy inteligente.
+Joshua: Pero nunca esta mal pedir de mas
+Vera: ...
+Joshua: ...no me mires asi por favor...
+-...
+Vera: Es broma.
+Joshua: *risa* Lo es, eh...
+-Fiel e inocente
+-Digno amigo de Renato
+Joshua: Pero te recomiendo tener cuidado.
+Joshua: Algunas personas te pueden impactar fuerte.
+Vera: ... ok
+Que debo hacer?
++Hablar con alguien
+Hay un total de 5 personas:
+----------------------------------------------------------
+Caso 1
+Persona 1: Renato es una persona muy amable.
+Persona 1: Aunque sea joven, pienso que el deberia ser el presidente.
+Persona 1: En realidad cualquiera puede serlo...
+Persona 1: ...Menos el....
+Vera: ?
+-------------------------------------------------------------
+Caso 2
+Persona 2: Heh...heh...
+Vera: AHHHHH
+Persona 2: Mata...me...
+Enfermera: DEBES VIVIR, AGUANTA.
+Persona 2: No... quiero...
+-Personas que quieren dejar de existir a vivir...
+-...Mi cabeza...
+-Me duelEEE...
+*Cordura: -10*
+-----------------------------------------------------
+Caso 3
+Persona 3: Hola hija... eres parte de la resistencia?
+Vera: Acabo de unirme
+Persona 3: Espero mucho de ti hija.
+Persona 3: Te contare todo lo que se, y unos tips para agunatar
+Vera: Gracias, senora
+-Me conto de muchos tips para aguantar la ansiedad de la guerra.
+-Se nota que ella ha pasado mucho
+-Eso es algo... triste, en realidad.
+*Inteligencia +10*
+-------------------------------------------------------------
+Caso 4
+Persona 4: A veces pienso... y quiero pensar...
+Persona 4: Que un universo donde esto no haya pasado... este en curso.
+Persona 4: Como quisiera encontrar a uno de esos infelices y hacerles sentir el infierno que estoy sintieno!
+Vera: ...
+-Tan mal estan?
+*Cordura: -5*
+-----------------------------------------------------
+Caso 5
+Persona 5: El dolor de mis amigos perdidos estan en mi corazon
+Persona 5: Y los pecados que he cometido para sobrevivir me consumen...
+Persona 5: No sientes lo mismo, jovencita?
+Vera: ...
+Persona 5: Silencio eh
+Persona 5: Entiendo...
+Persona 5: A veces el silencio habla mas que con palabras...
+-------------------------------------------------------------
++Revisar inventario
+-----------------------------------------------------
++Pasar a la siguiente ZONA ESTE (1)
+*Si la inteligencia es mayor a 60 - Cordura +5*

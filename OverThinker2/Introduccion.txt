@@ -1,0 +1,191 @@
+* 4 / 20 / 2019, ? ? ? *																														$
+																																				$
+- Mareo, mareo y mas mareo...																													$
+- Un sentimiento de mareo tan fuerte como un soroche en altura.																					$
+- Oscuridad																																		$
+- Un sentimiento de oscuridad tan fuerte con una noche sin luna																					$
+- ...																																			$
+- Ya podia sentirlo desde el momento que me desperte																							$
+- Este lugar tenia algo raro...																													$
+Vera:...ugh...ughhhh...																															$
+	Vera : ? Donde...estoy ?																													$
+	-Efectivamente																																$
+	- No sabia donde estaba																														$
+	- Pero al abrir mejor mi campo visual...																									$
+	- ...vi desgracia.																															$
+	*BOOOOOOOOM*																																$
+	Vera : AHHHHHHHHHHHHHHHH																													$
+	Persona x : CORRAN, LLEGARON LOS TERRUCOS A LIMA																							$
+	Persona y : SALVENSE QUIEN PUEDA																											$
+	Persona z : Ya no puedo... aguantarlo mas...																								$
+	Terruco a : PEREZCAN, IGNORANTES E INCAPACES																								$
+	Terruco b : Entreguen el gobierno a nuestro lider, y no habra mas problema																	$
+	Persona x : JAMAS, USTEDES MATAN GENTE																										$
+	Terruco b : Igual que su presidente...																										$
+	Vera : ah... ahhhh...																														$
+	- Podia escuchar mas barullos, gente marchando y protestando...																				$
+	- Y bombas explotando																														$
+	- ? Escuche bien claro ?																													$
+	-? Lima ?																																	$
+	-? Desde cuando Lima es una zona peligrosa ?																								$
+	-Eso pensaba																																$
+	- Solo en mi mente																															$
+	- Porque afuera de ella...																													$
+	- Estaba...																																	$
+	Vera : AHHHHHHHHHHHHHHHHHHHHHH																												$
+	Vera : ? QUE ES ESTO ?																														$
+	Persona z : Amiga, te recomiendo correr...																									$
+	Persona z : Estos terrucos no perdonan a nadie...																							$
+	Vera : "Te..rrucos"																															$
+	- Terrucos...																																$
+	- ? Que año es este ? ? 1992 ?																												$
+	- No...imposible																																$
+	- Veo que las personas que huyen tienen smartphones...																						$
+	- *thud* Hmm, aun tengo el mio en mi bolsillo																								$
+	Terruco d : Oye...																															$
+	Vera : ...AHhh...																															$
+	Terruco d : Disculpa a mis companeros violentos, pero hacer estas acciones es necesarias para la causa										$
+	Vera : ...ah...agh...																														$
+	Terruco d : ? Quieres unirte a nuestra causa ?																								$
+	Vera : ....																																	$
+	- ? De veras me esta preguntando esto ?																										$
+	-Ni hablar																																	$
+	- Puedo ver claramente que sus acciones no pueden justificar su final, pero...																$
+	* KABOOOM *																																	$
+	-Una explosion sono cerca de mi...																											$
+	Vera : MIS OIDOSS																															$
+	Terruco d : Dios, creo que se pasaron con los explosivos...																					$
+	Terruco d : Piensalo bien, mujer... Los "buenos" hacen lo mismo que nosotros																$
+	- Y con eso, se fue...																														$
+	- Estoy confundida																															$
+	- Que es esto...																															$
+	- Esto no es mi realidad...																													$
+	Mujer : ayu..dame																															$
+	Vera : ...eh																																$
+	- Volteo mi cara...																															$
+	- Y veo a una mujer...																														$
+	- ...gravemente herida																														$
+	Mujer : ...ayuda...mama...papa...																											$
+	Mujer : ...																																	$
+	Vera : ..ah....																																$
+	- Esta agonizando...																														$
+	- Deberia...																																$
+	# ELECCION 1 : ? DESEAS ACERCARTE A LA MUJER ? S / N																						$
+	----------------------------------------------------------------------------------------------												$
+	~ ELECCION SI																																	$
+	- Esta herida...debo hacer algo																												$
+	- Me acerco a asistirla																														$
+	Vera : Hey... responde por favor...																											$
+	Mujer : Ehh... mama ?																														$
+	Vera : ...eh ?																																$
+	-Esta delirando																																$
+	Mujer : Te vez... joven...																													$
+	Vera : Necesitas curarte urgente!																											$
+	- Decia, pero...																															$
+	- Estaba desesperada																														$
+	- No sabia que hacer																														$
+	- Sentia de que su cuerpo se volvia frio...																									$
+	- ...no debi haberme acercado...																											$
+	- Ahora me siento culpable...																												$
+	Mujer: Mama...perdo...name																													$
+	Mujer : ...Sali a protestar como dijiste...																									$
+	Mujer : ...pero falle																														$
+	Mujer : ...falle...falle...falle																											$
+	Mujer : falle, falle, falle, falle, falle, falle, falle,																					$
+	Mujer : FALLE, FALLE, FALLE, FALLE, FALLE, FALLE, FALLE, FALLE...																			$
+	- Decidi seguirle el juego																													$
+	Vera : Hija... shhh, no te preocupes...																										$
+	- Lagrimas salian de mis ojos																												$
+	- Y de ella tambien...																														$
+	Mujer : en... serio ?																														$
+	Mujer * risa debil*...gracias...ma...																										$
+	Mujer : ...mama...																															$
+	Vera : Si...																																$
+	Mujer : ...me voy a... ? morir ?																											$
+	-No pude responder esto																														$
+	- Mas lagrimas salian de mis ojos																											$
+	Mujer : ...no me... quiero... morir...																										$
+	Vera : ...																																	$
+	- ...Frio																																	$
+	- Frio																																		$
+	- Su cuerpo...																																$
+	- Esta frio.																																$
+	Vera : ...ah...Ahh...																														$
+	Vera : AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH																				$
+	- ESTA MUERTA																																$
+	- Y MURIO FRENTE A MI																														$
+	- QUE CLASE DE PESADILLA ES ESTA																											$
+	- No estaba llorando...																														$
+	- Pero lagrimas caian de mis ojos																											$
+	- Muchas lagrimas																															$
+	- No debi acercarme...																														$
+	- Siento que me voy a desmayar																												$
+	- Quiero gritar mas...																														$
+	- Pero me duele la garganta																													$
+	Vera : Que clase de mala broma es esta...																									$
+	Vera : Necesito cubrirme... ella ya esta muerta...																							$
+	- Dejar tirada a aquella mujer...																											$
+	- Me quiere consumir la locura...																											$
+	CORDURA = -7 FUERZA = -3																													$
+	...																																			$
+	- De repente... mi celular sono																												$
+	*RING RING*																																	$
+	-Con la poca fuerza que tenia, saque mi celular																								$
+	- Al ver el nombre... sentia un rayo de esperanza...																						$
+	Vera: *sollozo* ...Renato...																												$
+	- Rapidamente conteste...																													$
+	- Pero no escuchaba nada...																													$
+	- Estatica...																																$
+	- Pero en momentos desesperados...																											$
+	- No puedo perder la fe																														$
+	*------*																																	$
+	& ? ? ? : Hola de nuevo																														$
+	& ? ? ? : Al parecer, elegiste mal ? no ?																										$
+	& ? ? ? : Veradi acaba de presenciar el perecimiento de una persona																			$
+	& ? ? ? : Te advierto desde ahora																												$
+	& ? ? ? : Hay valores que algunos personajes poseen																							$
+	& ? ? ? : Inteligencia y Fuerza																												$
+	& ? ? ? : Pero Veradi posee un elemento mas...																								$
+	& ? ? ? : La Cordura																															$
+	& ? ? ? : Debido a sus sucesos en su historia, Veradi posee una estabilidad mental debil														$
+	& ? ? ? : Tus acciones pueden definir el valor de la Cordura.																					$
+	& ? ? ? : Y te recomiendo...																													$
+	& ? ? ? : No reduzcas su cordura																												$
+	& ? ? ? : LLega a 0, y ella se vuelve 0																										$
+	& ? ? ? : Si es que sabes a lo que me refiero, ? no, Observador ?																				$
+	& ? ? ? : Seras piadoso... o cruel...																											$
+	& ? ? ? : Posees el poder de influenciar el espacio tiempo																					$
+	& ? ? ? : ? Que harias con ello ?																												$
+	& ? ? ? : ? Volver al pasado para salvar a la mujer ?																							$
+	& ? ? ? : ...																																	$
+	& ? ? ? : Como si fuera tan sencillo																											$
+	& ? ? ? : La cosa es que... lo es.																											$
+	& ? ? ? : Pero no pienso decirte como hacerlo... por ahora.																					$
+	& ? ? ? : Continua tu trabajo como observador.																								$
+	& ? ? ? : Y evita que Veradi...este conciente.																								$
+	---------------------------------------------------------------- -
+	~																			$
+	ELECCION NO																																	$
+	- ...																																		$
+	- ...Esto no me incumbe...																													$
+	- Primero estoy yo.																															$
+	- Debo buscar un lugar donde huir.																											$
+	- Este lugar esta completamente destruido																									$
+	- ...Es  mejor no volver mas.																												$
+	---------------------------------------------------------------- -																			$
+	Posicion: 0 "Plaza de armas"																												$
+	? Que debo hacer ?																															$
+	+Hablar con alguien																															$
+	Hay un total de 2 personas.																													$
+																																				$
+	------------------------------------------------------------ -																				$
+	Persona 2 : Porque...porque se tiene que repetir...																							$
+	Vera : ...																																	$
+	- La historia se repite...hmm...																											$
+	- Como quisiera que el pasado se repita y se vuelva presente...																				$
+	- ...Si esas cosas pasaran...																												$
+	---------------------------------------------------- -																						$
+	+Revisar inventario																															$
+	*Solo deberia tener el celular*																												$
+	---------------------------------------------------- -																						$
+	+Pasar a la siguiente ZONA SUR(2)																											$

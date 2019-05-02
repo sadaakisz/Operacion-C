@@ -1,3 +1,10 @@
 ﻿  Source.cpp
-  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+c:\users\mini_\documents\1-upc\3° ciclo\algoritmos y estructuras de datos\operacion-canaval\overthinker2\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\mini_\documents\1-upc\3° ciclo\algoritmos y estructuras de datos\operacion-canaval\overthinker2\source.cpp(14): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1282): note: see declaration of '_sleep'
+c:\users\mini_\documents\1-upc\3° ciclo\algoritmos y estructuras de datos\operacion-canaval\overthinker2\source.cpp(33): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1282): note: see declaration of '_sleep'
+c:\users\mini_\documents\1-upc\3° ciclo\algoritmos y estructuras de datos\operacion-canaval\overthinker2\source.cpp(38): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1282): note: see declaration of '_sleep'
+c:\users\mini_\documents\1-upc\3° ciclo\algoritmos y estructuras de datos\operacion-canaval\overthinker2\source.cpp(71): warning C4715: 'escenario': not all control paths return a value
   OverThinker2.vcxproj -> C:\Users\mini_\Documents\1-UPC\3° Ciclo\Algoritmos y estructuras de datos\Operacion-Canaval\OverThinker2\Debug\OverThinker2.exe
